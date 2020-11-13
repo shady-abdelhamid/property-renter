@@ -6,10 +6,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./edit-offer.page.scss'],
 })
 export class EditOfferPage implements OnInit {
-
   constructor() { }
 
-  ngOnInit() {
-  }
+  ngOnInit() { }
 
 }
